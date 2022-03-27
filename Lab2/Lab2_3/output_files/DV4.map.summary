@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue Jan 07 00:23:59 2020
+Quartus II 32-bit Version : 13.1.0 Build 162 10/23/2013 SJ Web Edition
+Revision Name : DV4
+Top-level Entity Name : DV4
+Family : Cyclone IV E
+Total logic elements : 19
+    Total combinational functions : 19
+    Dedicated logic registers : 10
+Total registers : 10
+Total pins : 20
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
