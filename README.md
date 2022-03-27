@@ -22,4 +22,4 @@
 >>Lab2_3: 4-bit Divider
 >>>Controller, Counter, DV4, FF4, FS, FS4, MUX4
 >>>
->>>report
+>>report
